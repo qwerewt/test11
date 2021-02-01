@@ -16,4 +16,8 @@ public class A {
     public String RR(){
         return "hahahha";
     }
+    @GetMapping("/ww")
+    public String r(){
+        return "哈哈哈";
+    }
 }
